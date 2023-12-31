@@ -1,8 +1,12 @@
 git init : git initialize
 ls -a: Show hidden files
+---------
 git remote add origin <SSH dirictory path>: Set origin path
+git remote add origin https://github.com/imrannazer/learn_git.git
+---------
 git log: show all commits if exist
 git status: Directory current status
+---------
 git pull origin master: pull code form remote to local
 ------fatal: couldn't find remote ref master
 ------Resolve this error
@@ -24,6 +28,15 @@ git log: Show all recent commits
 git show <commit id>: Show what commit on this id
 git show e676a62c3814e960059df1f10605631747d45a25
 ---------
+git push
+git push --set-upstream origin master: set push upstream
+---------append text in esistring file
+cat >> testring.txt
+this is new line
+this second line
+Enter
+Ctrl+d
+---------------------------------------------------
 
 
 
@@ -31,7 +44,26 @@ git show e676a62c3814e960059df1f10605631747d45a25
 
 
 
-git remote add origin https://github.com/imrannazer/learn_git.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
