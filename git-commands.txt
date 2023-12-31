@@ -49,10 +49,28 @@ vi .gitignore
 i (i for insert somethig now, looking INSERT in down side)
 :wq
 exit form file inserting
+# .gitignore dont track which given inside this file and folder/directory
 --------------------------------------------------
+touch file.txt: create a new blank file
+--------------------------------------------------
+cat >> file.txt: create and insert something in file
+cat > fule.txt: delete all existing and write something new
+--------------------------------------------------
+git log --grep: serch all commits
+If you find your commit then use it
+----------------------------------------------------
+git log --oneline: show commit in one by one line
 
-
-
+----------------------------------------------------
+----------------------------------------------------
+		git branch
+----------------------------------------------------
+git branch: show all branches with current branch
+(current branch defien by *)
+---------------------------------------------------
+git branch <branch_name>: create new branch
+(new branch copy all data and commits form master branch)
+git checkout <branch_name> change branch 
 
 
 
