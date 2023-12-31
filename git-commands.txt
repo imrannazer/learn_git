@@ -6,6 +6,27 @@ git status: Directory current status
 git pull origin master: pull code form remote to local
 ------fatal: couldn't find remote ref master
 ------Resolve this error
+		git status
+		git add .
+		git commit -m "commit for testing only"
+
+------- Move branch
+git branch -m main master
+git fetch origin
+git branch -u master master
+git remote set-head origin -a
+
+--------fatal: refusing to merge unrelated histories-------
+ git pull origin master --allow-unrelated-histories
+---------
+git log: Show all recent commits
+---------
+git show <commit id>: Show what commit on this id
+git show e676a62c3814e960059df1f10605631747d45a25
+---------
+
+
+
 
 
 
