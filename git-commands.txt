@@ -86,6 +86,14 @@ data complitely different in both same name file, then we will get errors.
 When some file having different Content in different branches, if you do merge, Conflict Occurs (Resalve Conflict then add and Commit)
 
 Conflict occurs When you merge Branches
+- just go to file check correct context and save file
+git merge <branch_name>
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+	git stashing(temporary derectory)
+
 
 
 
