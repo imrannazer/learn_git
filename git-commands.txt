@@ -40,7 +40,10 @@ this second line
 Enter
 Ctrl+d
 ---------------------------------------------------
-git restore --staged testing.txt/ . : reverse from git add 
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+git restore --staged testing.txt/ . : reverse from git commit 
 -------------------------------------------------
 :
 exit form there "q" only press
@@ -93,10 +96,24 @@ git merge <branch_name>
 --------------------------------------------------
 --------------------------------------------------
 	git stashing(temporary derectory)
+git stash: hold your current work and start a temprory work
+git stash list: show all git stash commit and works
+git stash clear: clear data from git stash temp-repo
+
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+	git reset
+git reset <file_name>: undo single file form git add 
+git reset .: reset all fiel and works from git add
+git reset --hard: remove form working space and staging area
+(git reset command use before commit )
 
 
-
-
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+	git revert
 
 
 
