@@ -32,6 +32,7 @@ git show e676a62c3814e960059df1f10605631747d45a25
 ---------
 git push
 git push --set-upstream origin master: set push upstream
+git push origin master: send data in centeral repo
 ---------append text in esistring file
 cat >> testring.txt
 this is new line
@@ -71,6 +72,9 @@ git branch: show all branches with current branch
 git branch <branch_name>: create new branch
 (new branch copy all data and commits form master branch)
 git checkout <branch_name> change branch 
+(branch show after push commnad)
+--------------------------------------------------
+pulling mechanism (pull new data/code[not availabel in master branch] from git branch)
 
 
 
