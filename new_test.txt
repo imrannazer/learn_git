@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-This is new file in branch
-=======
-There is some new text in branch file
->>>>>>> branch1
-I think all is perfect
+There is a new line
+
