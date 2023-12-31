@@ -1,0 +1,84 @@
+[33mcommit 68fabe6e23e09275ae1a95893ab6097670e026cb[m[33m ([m[1;36mHEAD -> [m[1;32mbranch1[m[33m, [m[1;31morigin/branch1[m[33m, [m[1;32mmaster[m[33m)[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 21:11:50 2023 +0530
+
+    commit all command file
+
+[33mcommit 4b308bf373a9d8b0c67b988730451bcde1586746[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 20:47:24 2023 +0530
+
+    commit on branch
+
+[33mcommit abb63523fc958deec15a7ef41815f3f22d929773[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 19:22:50 2023 +0530
+
+    check .gitignore file working or not
+
+[33mcommit b198b3cc5e12f867c52120dfe05e42589013d50b[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 19:21:05 2023 +0530
+
+    remove .css files
+
+[33mcommit a42c54776a0bb74f3caea2685566a5e8677fa1e1[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 19:20:09 2023 +0530
+
+    delete new.txt
+
+[33mcommit 3a9161e567314792f2ab6fba3d8c455a1e146158[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 19:19:24 2023 +0530
+
+    add new.txt
+
+[33mcommit 7b96b2da6c282341669be47f6e584efe77aaa17b[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 19:13:36 2023 +0530
+
+    check .css file
+
+[33mcommit bd7be52f80ef96f385adf095788c2163e76a4668[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 19:07:00 2023 +0530
+
+    commit new file
+
+[33mcommit 5231c3aeea9e0c3d656aa9e2c162c0e319bb5f92[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 18:43:27 2023 +0530
+
+    Push new update
+
+[33mcommit dd7ecc967d260db84f1f326c5169f23e5bab69e2[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 18:35:47 2023 +0530
+
+    update command file
+
+[33mcommit 89a307429905d0e2e0d78b85819a61949e2991d1[m
+Merge: 5fa53ee e006081
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 18:29:18 2023 +0530
+
+    Merge branch 'master' of https://github.com/imrannazer/learn_git
+
+[33mcommit 5fa53eeb332d9379d25187bcf5bcc5f85292160a[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Sun Dec 31 18:13:00 2023 +0530
+
+    testing
+
+[33mcommit e00608193afc4ac387964a14fdfca21e958d17d4[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Wed Mar 29 16:37:13 2023 +0530
+
+    2nd file commited
+
+[33mcommit e676a62c3814e960059df1f10605631747d45a25[m
+Author: imrannazer <naziri1991@gmail.com>
+Date:   Wed Mar 29 16:35:00 2023 +0530
+
+    new file

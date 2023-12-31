@@ -30,7 +30,7 @@ git show e676a62c3814e960059df1f10605631747d45a25
 
 
 ---------
-git push
+git push: push data on branch
 git push --set-upstream origin master: set push upstream
 git push origin master: send data in centeral repo
 ---------append text in esistring file
@@ -75,11 +75,17 @@ git checkout <branch_name> change branch
 (branch show after push commnad)
 --------------------------------------------------
 pulling mechanism (pull new data/code[not availabel in master branch] from git branch)
+git merge <branch_name>: copy data form branch to master or master to branch 
 
 
+--------------------------------------------------
+--------------------------------------------------
+--------------------------------------------------
+	git conflict (two similar type in two places)
+data complitely different in both same name file, then we will get errors.
+When some file having different Content in different branches, if you do merge, Conflict Occurs (Resalve Conflict then add and Commit)
 
-
-
+Conflict occurs When you merge Branches
 
 
 
