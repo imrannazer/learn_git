@@ -116,6 +116,7 @@ git reset --hard: remove form working space and staging area
 --------------------------------------------------
 --------------------------------------------------
 	git revert (after commit) do this on public file
+git revert <commit_id>:
 
 
 ----------------------------------------------------
