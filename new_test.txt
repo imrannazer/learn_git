@@ -1,2 +1,0 @@
-There is a new line
-There is a revert line here
